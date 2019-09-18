@@ -1,0 +1,14 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "git.autofetch": true,
+    "remote.SSH.configFile": "D:\\VSCode\\data\\user-data\\ssh\\ssh_config",
+    "remote.SSH.showLoginTerminal": true,
+    "vs-kubernetes": {
+        "vs-kubernetes.minikube-path": "C:\\Users\\xiyueyu\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe",
+        "vs-kubernetes.draft-path": "C:\\Users\\xiyueyu\\.vs-kubernetes\\tools\\draft\\windows-amd64\\draft.exe",
+        "vs-kubernetes.helm-path": "C:\\Users\\xiyueyu\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true
+}

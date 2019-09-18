@@ -1,0 +1,42 @@
+{
+    "telemetry.machineId": "dc55928dd2f238f96c92a41dea3b046aec9ecb1befe7516e97a556cefbe189bc",
+    "openedPathsList": {
+        "workspaces3": [
+            "file:///d%3A/VSCode",
+            "file:///d%3A/MyGitHub/monaco-editor-samples",
+            "vscode-remote://ssh-remote%2B192.168.10.100/home/user/MyGitHub/Microshaoft.Common.Utilities.Net.4x",
+            "file:///d%3A/MyGitHub/Microshaoft.Common.Utilities.Net.4x",
+            "file:///d%3A/MyGitHub/misc",
+            "file:///d%3A/EditPlus"
+        ],
+        "files2": [
+            "file:///d%3A/VSCode/bin/code",
+            "file:///d%3A/VSCode/data/user-data/ssh/ssh_config"
+        ],
+        "workspaceLabels": [
+            null,
+            null,
+            "/home/user/MyGitHub/Microshaoft.Common.Utilities.Net.4x [SSH: 192.168.10.100]",
+            null,
+            null,
+            null
+        ]
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///d%3A/VSCode",
+            "backupPath": "d:\\VSCode\\data\\user-data\\Backups\\3b0eda76a326b879894ffd7af652d11d",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 4,
+                "width": 1028,
+                "height": 680
+            }
+        },
+        "openedWindows": []
+    },
+    "pickerWorkingDir": "D:\\"
+}

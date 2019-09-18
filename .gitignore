@@ -3,3 +3,32 @@
 ################################################################################
 
 /.vs
+/bin
+/data/extensions
+/data/tmp
+/data/user-data/Cache
+/data/user-data/CachedConfigurations
+/data/user-data/CachedData
+/data/user-data/logs
+/data/user-data/Local Storage/leveldb
+/data/user-data/GPUCache
+/data/user-data/CachedExtensions
+/data/user-data/Backups
+/locales
+/resources
+/swiftshader
+/tools
+/v8_context_snapshot.bin
+/snapshot_blob.bin
+/resources.pak
+/osmesa.dll
+/natives_blob.bin
+/libGLESv2.dll
+/libEGL.dll
+/icudtl.dat
+/ffmpeg.dll
+/d3dcompiler_47.dll
+/Code.VisualElementsManifest.xml
+/Code.exe
+/chrome_200_percent.pak
+/chrome_100_percent.pak
