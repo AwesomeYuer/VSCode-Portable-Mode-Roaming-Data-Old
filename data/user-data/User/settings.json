@@ -10,5 +10,8 @@
         "vs-kubernetes.helm-path": "C:\\Users\\xiyueyu\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe"
     },
     "editor.renderWhitespace": "all",
-    "editor.renderControlCharacters": true
+    "editor.renderControlCharacters": true,
+    "gitlens.advanced.messages": {
+        "suppressFileNotUnderSourceControlWarning": true
+    }
 }

@@ -3,21 +3,33 @@
     "openedPathsList": {
         "workspaces3": [
             "file:///d%3A/VSCode",
+            "file:///d%3A/MyGitHub/Ms-SQL-Roll-Use-Monthly-Partitions-Helper",
+            "file:///d%3A/MyGitHub/Microshaoft.Common.Utilities.Net.4x",
+            "file:///d%3A/MyGitHub/chrome-plugin-demo",
+            "file:///d%3A/MyGitHub/dotNET-try-samples",
+            "file:///d%3A/MyGitHub/SharedSourceCrossMulti-TargetFrameworksLibrary",
+            "file:///d%3A/MyGitHub/CodeRunnerTest",
             "file:///d%3A/MyGitHub/monaco-editor-samples",
             "vscode-remote://ssh-remote%2B192.168.10.100/home/user/MyGitHub/Microshaoft.Common.Utilities.Net.4x",
-            "file:///d%3A/MyGitHub/Microshaoft.Common.Utilities.Net.4x",
             "file:///d%3A/MyGitHub/misc",
             "file:///d%3A/EditPlus"
         ],
         "files2": [
+            "file:///d%3A/MyGitHub/Ms-SQL-Roll-Use-Monthly-Partitions-Helper/.gitattributes",
+            "file:///e%3A/download/scriptcs-scriptcs-v0.17.1-0-gceb8443/scriptcs-scriptcs-ceb8443/README.md",
             "file:///d%3A/VSCode/bin/code",
             "file:///d%3A/VSCode/data/user-data/ssh/ssh_config"
         ],
         "workspaceLabels": [
             null,
             null,
-            "/home/user/MyGitHub/Microshaoft.Common.Utilities.Net.4x [SSH: 192.168.10.100]",
             null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "/home/user/MyGitHub/Microshaoft.Common.Utilities.Net.4x [SSH: 192.168.10.100]",
             null,
             null
         ]
@@ -30,9 +42,9 @@
             "backupPath": "d:\\VSCode\\data\\user-data\\Backups\\3b0eda76a326b879894ffd7af652d11d",
             "uiState": {
                 "mode": 0,
-                "x": 0,
-                "y": 4,
-                "width": 1028,
+                "x": 128,
+                "y": 0,
+                "width": 1024,
                 "height": 680
             }
         },
